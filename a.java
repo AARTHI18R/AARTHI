@@ -9,7 +9,7 @@ class a
     if(a>0)
     System.out.println("positive");
     else if(a==0)
-    System.out.println("zero")
+    System.out.println("zero");
     else
     System.out.println("negative");
   }
